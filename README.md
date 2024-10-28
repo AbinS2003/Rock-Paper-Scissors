@@ -1,7 +1,24 @@
-# Rock Paper Scissors
-Rock paper scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock", "paper", and "scissors". This javascript Program [Mini Project] is aimed at automating one of the player called as Computerized Player and the taking rock, paper or scissor as an input from the used.
+# Rock-Paper-Scissors Game
 
-## Technologies used
-### HTML
-### CSS
-### JAVASCRIPT
+## Overview
+
+This is a simple Rock-Paper-Scissors game implemented in JavaScript. The player competes against the computer, with the winner determined by the rules of the classic game.
+
+## Features
+
+- Play against a computer opponent.
+- Display the player's and computer's choices.
+- Announce the winner after each round.
+- Keep track of the score throughout the game.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AbinS2003/Rock-Paper-Scissors.git
